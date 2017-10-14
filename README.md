@@ -7,3 +7,5 @@ Content Point, LinkedList implement with templete and Queue implement with templ
 This programming assignment includes a class to manage an integer array and provides easily used interface for users.
 ## HW 4
 Creating a singleton class, when users creat a second object, return the pointer of the first object.
+## HW 5
+Using template and general pointer void* to implement two max-function, return the max number or index of an array.
