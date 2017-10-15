@@ -9,3 +9,6 @@ This programming assignment includes a class to manage an integer array and prov
 Creating a singleton class, when users creat a second object, return the pointer of the first object.
 ## HW 5
 Using template and general pointer void* to implement two max-function, return the max number or index of an array.
+## HW 6
+An int types of set that implements sets' union, intersection and difference set.;
+And a class to manage time, mainly just an exercise for operator reload.
