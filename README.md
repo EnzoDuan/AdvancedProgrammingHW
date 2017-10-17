@@ -12,3 +12,5 @@ Using template and general pointer void* to implement two max-function, return t
 ## HW 6
 An int types of set that implements sets' union, intersection and difference set.<br>
 And a class to manage time, mainly just an exercise for operator reload.
+## HW 7
+A vector class and a matrix class.
