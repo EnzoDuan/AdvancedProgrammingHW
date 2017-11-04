@@ -1,0 +1,7 @@
+CP: Hierarchical Distributed Representations for Statistical Language Modeling; John Blitzer and Kilian Q. Weinberger and Lawrence K. Saul and Fernando Pereira; NIPS2004; 2004
+CP: A Hierarchical Phrase-Based Model for Statistical Machine Translation; David Chiang; ACL2005; 2005
+CP: Scalable Inference and Training of Context-Rich Syntactic Translation Models; Michel Galley and Jonathan Graehl and Kevin Knight and Daniel Marcu and Steve DeNeefe and Wei Wang and Ignacio Thayer; ACL2006; 2006
+JA: Measuring Word Alignment Quality for Statistical Machine Translation; Alexander Fraser and Daniel Marcu; Computational Linguistics; MIT Press; 2007
+JA: The Mathematic of Statistical Machine Translation: Parameter Estimation; Peter F. Brown and Stephen Della Pietra and Vincent J. Della Pietra and Robert L. Mercer; Computational Linguistics; MIT Press; 1993
+Bo: Neural Networks for Pattern Recognition; Christopher M. Bishop; Oxford University Press; ISBN-0198538642; 1995
+Bo: Statistical Machine Translation; Philipp Koehn; Cambridge University Press; ISBN-13: 978-0521874151; 2013
