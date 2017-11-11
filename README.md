@@ -14,3 +14,7 @@ An int types of set that implements sets' union, intersection and difference set
 And a class to manage time, mainly just an exercise for operator reload.
 ## HW 7
 A vector class and a matrix class.
+## HW 8
+An inherited work.
+## HW 9
+A simply STL programming exercise.
